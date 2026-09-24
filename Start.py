@@ -1,0 +1,5 @@
+print("Hi! My name is Samuel!")
+print("I like to swim and progam, but in my free time i wacth videos and and play games!")
+print (2+5-3)
+print (2*3/2)
+print ("3+4 times 2 =",7*2)
