@@ -38,3 +38,4 @@ total_points -= 10
 print("After missed-task points:", total_points)
 
 print("\n--- Final Results ---")
+print ("sup codingal")
